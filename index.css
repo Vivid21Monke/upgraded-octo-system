@@ -1,0 +1,23 @@
+body {
+    background-image: url("Image/Zirafe.jpg");
+    background-color: #112233;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+   }
+p {
+    color: black;
+    font-size: 25px;
+    border: solid;
+    background-color: gray;
+    padding: 15px;
+    width: 800px;
+    width: 50%;
+}
+h1 {
+    font-size: 50px;
+    font: bold;
+    border: solid;
+    width: 150px;
+    background-color: gray;
+}
